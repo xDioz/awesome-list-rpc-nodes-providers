@@ -1,0 +1,1 @@
+yarn hardhat deploy-zksync --script use-greeter.ts
