@@ -1,0 +1,6 @@
+Running script to interact with contract Greeter
+The message is Hello there!
+Transaction to change the message is 0x12f16578A16DB0f47e9D61175a823ac214288Af
+The message now is Hello people!
+
+✨  Done in 14.32s.
